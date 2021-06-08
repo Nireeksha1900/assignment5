@@ -8,17 +8,14 @@
         <h1>Carmille Bernard's Posts</h1>
         <figure>
         <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/b8/ec.jpg" height="150px" width="150px"><br>
-        
     </figure>
     <div class="a">
         <h2>Florence tour</h2>
-       
         <p>The Cathedral of Santa Maria del Fiore is a few minutes’ walk from the train station. It was built in the year 1296 and took nearly two centuries to finish. Brunelleschi's dome is an extraordinary example of his technical and mathematical genius. You can go up and see the whole city as it is the tallest building in Florence. Open from 9am to 6pm.</p>
         <button type="button">Read more</button>
     </div>
     <figure>
         <img src="https://m.visittuscany.com/shared/visittuscany/immagini/love-route-tuscany-florence-dantes-church.jpg?__scale=w:500,h:333,t:2,q:75" height="150px" width="150px"><br>
-
     </figure>
     <div class="b">
         <h2>Lovin Tuscany</h2>
@@ -39,7 +36,6 @@
         <div class="d">
      <h3>
         Related images </h3>
-
         <img src="https://www.roadaffair.com/wp-content/uploads/2017/09/sunset-florence-skyline-italy-shutterstock_220854265-1024x683.jpg" height="50px" width="50px">
         <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/4a/c8.jpg" height="50px" width="50px">
         <img src="https://cdn.citywonders.com/media/17512/florence-tours.jpg?anchor=center&mode=crop&width=1200&height=600" height="50px" width="50px"><br>
@@ -54,9 +50,6 @@
     </p>
 </div>
     </footer>
-    
-   
-    
     </body>
 </html>
 <style>
@@ -67,8 +60,6 @@
         margin-left: 200px;
         background-color: rgb(248, 227, 243);
     }
-
-    
     figure img{
         float:left;
     }
@@ -83,15 +74,12 @@
         margin-top: -20px;
         border-bottom: 1px solid black;
         text-align: justify;
-
     }
     div.c{
         margin-left: 200px;
         margin-top: 20px;
         border-bottom: 1px solid black;
         text-align: justify;
-
-
     }
     footer{
         width: 700px;
@@ -105,22 +93,15 @@
        float: left;
        border: 1px solid black;
        text-align: justify;
-     
        margin: 10px;
-       
     }
-    
-
     h1{
         border-bottom: 1px solid black;
- 
-
     }
     button{
         float: right;
         margin-top: -20px;
         background-color: rgb(241, 169, 184);
     }
-
 </style>
 
