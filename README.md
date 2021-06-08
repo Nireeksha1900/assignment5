@@ -44,10 +44,8 @@
         <img src="https://images.ctfassets.net/206xpozje0ny/EkMbPNReVMaGUkQ0MOYim/35731887c34736379e07834c5476e4c5/florence-duomo-climb-listing.jpg"  height="50px" width="50px" >
     </div>
     <div class="e">
-        <h3>About us         
-    </h3>
-    <p>Livorna Park is located at theintersection of Livorna Roadand Miranda Avenue in Alamo,CA. The two focal points othis destination park are bocceball courts and a large gazebo, which is the site of family and community celebrations. Thereis also Alamo Summer Concertand Movie Night seriepresented by the AlamoMunicipal AdvisoryCommittee.
-    </p>
+        <h3>About us </h3>
+    <p>Livorna Park is located at theintersection of Livorna Roadand Miranda Avenue in Alamo,CA. The two focal points othis destination park are bocceball courts and a large gazebo, which is the site of family and community celebrations. Thereis also Alamo Summer Concertand Movie Night seriepresented by the AlamoMunicipal AdvisoryCommittee.</p>
 </div>
     </footer>
     </body>
